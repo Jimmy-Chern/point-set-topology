@@ -1,3 +1,11 @@
 # point-set-topology
+A math course in zju.
+
 mainly notes and homework
-*done by paper and pen*
+
+```
+textbook:
+Topology Munkres
+```
+
+Thanks for Prof.Liu's Great Lecture!
